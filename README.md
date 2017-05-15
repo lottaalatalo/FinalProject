@@ -10,19 +10,32 @@ if neither of the players get it correctly, no one gets a point and the game mov
 <strong>Inspiration</strong>
 
 My inspiration for this project was the challenge that goes around youtube in which the players get the chance to guess the youtber,
-just like it works in this project. I enjoy watching these kind of challenges because most of the time I like to play along to test
-my knowledg but also to see what 
+just like it works in this project. I enjoy watching these kind of challenges because most of the time I like to play along to test my knowledg but also to see how to players perform in the challenge. 
 
 <strong>Interaction</strong>
 
-<strong>Timeline</strong>
+The interaction comes into this project with the button which is pressed to get a turn to guess. By pressing the button, it indicates the program that a player is ready to enter an answer which will bring up a text box. With a makey makey, I will be able to make a button to indicate which player gets a chance to answer, as well as a sound to go with the button. 
 
-Milestone 1: May 12th 2017
+<h3>Timeline</h3>
 
-- Get an idea for the project
-- Learn how "text" works in processing
-- Find the pictures of the Youtubers
+<strong>Milestone 1: May 12th 2017 </strong>
 
-Milestone 2: May 19th 2017
+-Get an idea for the project
 
-Milestone 3: May 29th 2017
+-Learn how "text" works in processing
+
+-Find the pictures of the Youtubers
+
+<strong>Milestone 2: May 19th 2017</strong>
+
+-Upload the images to the code
+
+-Learn how to move from to screen to scree (what happens after a person gets an anser correct)
+
+-Connect the game to the makey makey 
+
+<strong>Milestone 3: May 29th 2017</strong>
+
+-Figure out how the point system works
+
+-Connect the images and the "text" option for the game
