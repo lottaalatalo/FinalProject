@@ -30,7 +30,7 @@ The interaction comes into this project with the button which is pressed to get 
 
 -Upload the images to the code
 
--Learn how to move from to screen to scree (what happens after a person gets an anser correct)
+-Learn how to move from to screen to screen (what happens after a person gets an anser correct)
 
 -Connect the game to the makey makey 
 
